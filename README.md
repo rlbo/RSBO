@@ -41,7 +41,7 @@
   ```
   1) Problem name: gw10Two1, gw20Three1, ky10One, it10, mcf2
   
-  2) algorithm: EI, LCB
+  2) Algorithm: EI, LCB
   
   3) Version: 0
   
