@@ -21,9 +21,9 @@
   
   1) The environment: besd_gw, besd_ky, besd_it, besd_mc
   
-  2) Which_problem: 0
+  2) Which problem: 0
   
-  3) Replication_no: 0,1,2,...
+  3) Replication number: 0,1,2,...
   
   4) Problem name: 
      
