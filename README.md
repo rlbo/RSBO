@@ -15,27 +15,25 @@
 ## How to run the algorithms
 #### run BESD
   ```bash
-  (VIRT_ENV) $ python run_misoKG_REP.py miso_gw 0 0 gw10Two1
+  (VIRT_ENV) $ python run_besd_REP.py miso_gw 0 0 gw10Two1
   ```
-  This is the main file for running BESD. It requests 5 inputs:
+  This is the main file for running BESD. It requests 4 inputs:
   
-  1) The environment: miso_gw, miso_ky, miso_it, miso_mc
+  1) The environment: besd_gw, besd_ky, besd_it, besd_mc
   
   2) Which_problem: 0
   
-  3) Version: 0
+  3) Replication_no: 0,1,2,...
   
-  4) Replication_no: 0,1,2,...
-  
-  5) Problem name: 
+  4) Problem name: 
      
-     miso_gw: gw10Two2, gw20Three1.
+     besd_gw: gw10Two2, gw20Three1.
      
-     miso_ky: ky10One.
+     besd_ky: ky10One.
      
-     miso_it: it10.
+     besd_it: it10.
      
-     miso_mc: mcf2.
+     besd_mc: mcf2.
   
 #### EI / LCB
   ```bash
