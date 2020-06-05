@@ -11,6 +11,8 @@
   * EI
   * LCB
   * HyperBand
+  * MAML
+  * Q-learning
 
 ## How to run the algorithms
 #### run BESD
@@ -56,6 +58,12 @@
   2) Version: 0
   
   3) Replication_no: 0,1,2,... 
+  
+#### MAML
+Go to folder maml-rl-pytorch, then run the following:
+```bash
+  (VIRT_ENV) $ python train.py --config configs/maml/gw10Two1.yaml --output-folder result_gw10Two1 --seed 0 --num-workers 8
+  ```
 
 #### Vanilla Q-learning
   ```bash
