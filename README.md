@@ -1,4 +1,4 @@
-# Exploration via Sample-Efficient Subgoal Design
+# Exploration via Cost-Aware Subgoal Design
 
 ## What do we have
 ### Requirements
